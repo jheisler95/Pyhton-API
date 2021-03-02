@@ -1,2 +1,2 @@
-# Pyhton-API
+# Python-API
 Assignment 6
